@@ -1,0 +1,6 @@
+{
+  "name": "V Collection | Luxury Footwear & 3D Atelier",
+  "description": "Classical luxury footwear crafted with bespoke Italian artistry, Goodyear-welted longevity, and interactive 3D craftsmanship experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
